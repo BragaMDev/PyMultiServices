@@ -1,8 +1,9 @@
 # PyMultiServices
 
 Um sistema centralizado desenvolvido em **Python** que reúne múltiplos utilitários e simulações de sistemas do mundo real através de um menu interativo baseado em terminal (`CLI`).
-Este projeto foi desenvolvido exclusivamente para fins de estudo e consolidação de conceitos fundamentais em Python.
 ---
+
+(Este projeto foi desenvolvido exclusivamente para fins de estudo e consolidação de conceitos fundamentais em Python.)
 
 ## Funcionalidades do Sistema
 
